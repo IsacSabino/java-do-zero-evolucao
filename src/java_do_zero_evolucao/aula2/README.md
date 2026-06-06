@@ -2,7 +2,7 @@
 
 ### Print do desafio da Aula 2
 
-![Print do desafio da Aula 2](src/java_do_zero_evolucao/aula2/assets/desafio-aula2.png)
+![Print do desafio da Aula 2](assets/desafio-aula2.png)
 
 
 Na Aula 2 eu pratiquei:
