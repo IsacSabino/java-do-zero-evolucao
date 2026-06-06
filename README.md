@@ -14,6 +14,10 @@ Na Aula 1 eu pratiquei:
 - Comparacoes
 - Condicionais com `if`, `else` e `else if`
 
+### Print do desafio da Aula 1
+
+![Desafio Aula 1](src/java_do_zero_evolucao/aula1/assets/desafio-aula1.png)
+
 ## Estrutura
 
 ```text
