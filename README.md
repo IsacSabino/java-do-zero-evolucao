@@ -59,3 +59,26 @@ Na Aula 2 eu pratiquei:
 - Organização do código fora do `main`
 
 📁 [Ver arquivos da Aula 2](src/java_do_zero_evolucao/aula2)
+
+## Aula 3
+
+### Print do desafio da Aula 3
+
+![Print do desafio da Aula 3](src/java_do_zero_evolucao/aula3/assets/desafio-aula3.png)
+
+Na Aula 3 eu pratiquei:
+
+- Criação de classes e objetos
+- Criação da classe `Aluno`
+- Uso de atributos como `nome`, `idade` e `nota`
+- Instanciação de objetos com `new`
+- Acesso aos atributos usando o ponto `.`
+- Métodos dentro de uma classe
+- Método `void` para mostrar dados
+- Método com retorno `boolean`
+- Método com retorno `String`
+- Um método chamando outro método
+- Organização de responsabilidades entre classes
+- Teste de regra de aprovação com `nota >= 7`
+
+📁 [Ver arquivos da Aula 3](src/java_do_zero_evolucao/aula3)
